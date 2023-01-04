@@ -3,9 +3,6 @@
 - [@joancodes] (https://github.com/joancodes)
 - [@fabioauroradev](https://github.com/FabioAurora)
 
-- [@mejokar](https://github.com/mejokar)
-
-
 - [@ekramasif](https://github.com/ekramasif)
 
 -[@ekramasif](https://github.com/parvej2001)
@@ -450,6 +447,8 @@
 -[@VeronicaVB](https://github.com/VeronicaVB)
 
 -[@aslamdoctor](https://github.com/aslamdoctor)
+
+- [@mejokar](https://github.com/MeJokar)
 
 -[@neocyber](https://github.com/neocyber)
 
