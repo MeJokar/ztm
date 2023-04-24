@@ -24,11 +24,13 @@ class Graph():
             print(f'{node} -->> {" ".join(map(str, self.adjacentList[node]))}')
         
 
-my_graph = Graph()
-my_graph.addVertex(1)
-my_graph.addVertex(2)
-my_graph.addVertex(3)
-my_graph.addEdge(1,2)
-my_graph.addEdge(1,3)
-my_graph.addEdge(2,3)
-my_graph.show_connections()
+if __name__ == "__main__":
+    my_graph = Graph()
+    my_graph.addVertex(1)
+    my_graph.addVertex(2)
+    my_graph.addVertex(3)
+    my_graph.addEdge(1,2)
+    my_graph.addEdge(1,3)
+    my_graph.addEdge(2,3)
+    my_graph.show_connections()
+    print(my_graph.adjacentList)
